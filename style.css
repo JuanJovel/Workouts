@@ -1,0 +1,19 @@
+.card-workout-container {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.outer-container {
+  padding-top: 20px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.main-page-footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  padding-bottom: 1em;
+}
